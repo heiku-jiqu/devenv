@@ -39,3 +39,4 @@ make
 msteams
 gimp
 zed
+vscode
