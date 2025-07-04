@@ -1,42 +1,52 @@
 git
-sqlite
-duckdb
+difftastic
+
+wezterm
+ohmyposh
 jq
 dasel
-wezterm
 7zip
-neovim
 ripgrep
 fd
 fzf
-ohmyposh
-yt-dlp
+bat
 tldr
-difftastic
+tree
+
+sqlite
+duckdb
+
+zed
+vscode
+neovim
 
 dockerdesktop
-kubectl
+awscli
+terraform / opentofu
+kubectl / kustomize
 
-sumatrapdf
-ffmpeg
-mpv
-chrome
-vscode
-
+uv
 python
 r
 golang
 zig
+nvm
 nodejs
-awscli
+bun
+
 powershell
 ollama
-terraform / opentofu
 
 gcc
 make
 
+sumatrapdf
+chrome
 msteams
 gimp
-zed
-vscode
+
+ffmpeg
+mpv
+yt-dlp
+
+nerdfonts (FiraCode, GeistMono, JetBrainsMono, Lilex, Monoid, VictorMono, ZedMono)
