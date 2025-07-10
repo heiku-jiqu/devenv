@@ -50,3 +50,5 @@ mpv
 yt-dlp
 
 nerdfonts (FiraCode, GeistMono, JetBrainsMono, Lilex, Monoid, VictorMono, ZedMono)
+
+speedbump
