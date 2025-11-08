@@ -1,7 +1,9 @@
 git
 difftastic
+jujutsu
 
 wezterm
+ghostty
 ohmyposh
 jq
 dasel
@@ -10,8 +12,13 @@ ripgrep
 fd
 fzf
 bat
+eza
 tldr
 tree
+btop
+zoxide
+parallel
+hyperfine (cli benchmarking)
 
 sqlite
 duckdb
@@ -23,7 +30,8 @@ neovim
 dockerdesktop
 awscli
 terraform / opentofu
-kubectl / kustomize
+kubectl / kustomize / helm
+k9s
 
 uv
 python
@@ -51,4 +59,8 @@ yt-dlp
 
 nerdfonts (FiraCode, GeistMono, JetBrainsMono, Lilex, Monoid, VictorMono, ZedMono)
 
-speedbump
+speedbump (tcp latency simulator)
+vegeta / k6 (http load testing)
+tcpcopy
+
+trivy
